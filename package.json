@@ -1,7 +1,7 @@
 {
-  "name": "giaodien",
+  "name": "modulenodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "npm i modulenodejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
     "sass": "node-sass sass/main.scss public/css/styles.css "
   },
   "keywords": [],
-  "author": "",
+  "author": "HuyTue",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -20,10 +20,19 @@
     "express": "^4.17.1",
     "express-session": "^1.17.1",
     "json-web-token": "^3.2.0",
-    "mongoose": "^5.10.10",
+    "mongoose": "^5.10.15",
     "mongoose-paginate": "^5.0.3",
     "node-sass": "^5.0.0",
     "nodemon": "^2.0.6",
     "random-name": "^0.1.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huytue/modulenodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Huytue/modulenodejs/issues"
+  },
+  "homepage": "https://github.com/Huytue/modulenodejs#readme"
 }
