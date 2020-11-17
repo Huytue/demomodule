@@ -1,1 +1,3 @@
-# demomodule
+# modulenodejs
+
+npm i modulenodejs
